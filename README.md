@@ -1,3 +1,2 @@
-# Projeto_pi_final
-Projeto interdisciplinar final
 # ProjetoPiMobile
+** Projeto criado para testar uma versão mobile.
